@@ -1,0 +1,27 @@
+{
+  "971508221793": {
+    "handoff": false,
+    "status": "Cold",
+    "tags": [
+      "Complaint",
+      "Miscommunication",
+      "Customer Service",
+      "Upset"
+    ],
+    "notes": "Khaled is not providing any property-related information, remains upset",
+    "last_contacted": "2025-05-03T15:55:29.675101+00:00",
+    "my_previous_response": "I apologize if our service has not met your expectations, Khaled. We value your feedback and would like to address your concerns directly. How would you prefer we assist you with your real estate needs?"
+  },
+  "201281155666": {
+    "handoff": false,
+    "status": "Cold",
+    "tags": [
+      "do not contact",
+      "personal number",
+      "wrong contact"
+    ],
+    "notes": "Adham is asking about contact methods, previously requested no contact",
+    "last_contacted": "2025-05-03T16:03:27.664478+00:00",
+    "my_previous_response": "I apologize for any inconvenience, Adham. We respect your wishes and will not use personal numbers for our correspondence. Your preferences have been noted. Thank you."
+  }
+}
